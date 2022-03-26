@@ -29,6 +29,6 @@ npm react-native run-android
 
 # Screenshots
 
-![Crypto list](images/1.png)
+![Crypto list](images/1.jpg)
 
 # Ideas for Future Development
