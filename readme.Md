@@ -12,20 +12,20 @@ import { LineChart } from 'react-native-wagmi-charts';
 
 # Running iOS on a Mac via a simulator
 
-If you wish to install using Bundler, please see the advanced iOS install instructions at the end of this README. Otherwise, make sure you have a version of CocoaPods installed, and run the following commands:
+Make sure you have a version of CocoaPods installed, and run the following commands:
 
-npm i
-cd ios
-pod install
-cd ..
+npm i\
+cd ios\
+pod install\
+cd ..\
 npm react-native run-ios
 
 # Running Android on a Mac or PC
 
 Attach a device or run an emulator and run the following commands:
 
-npm i
-npm react-native run-android
+npm i\
+npm react-native run-android\
 
 # Screenshots
 
