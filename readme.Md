@@ -24,11 +24,13 @@ npm react-native run-ios
 
 Attach a device or run an emulator and run the following commands:
 
-npm i
+* npm i
 npm react-native run-android
 
 # Screenshots
 
 ![Crypto list](images/1.jpg)
+![Crypto list](images/2.jpg)
+
 
 # Ideas for Future Development
