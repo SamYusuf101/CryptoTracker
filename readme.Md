@@ -6,9 +6,8 @@ This app is optimized for different screen sizes and orientations.
 #Installation
 
 Please set up a React Native development environment if you have not already done so.
-You will also need to import react-native-wagmi-charts for crypto charts.
+You will also need to install react-native-wagmi-charts for crypto charts.
 
-import { LineChart } from 'react-native-wagmi-charts';
 
 # Running iOS on a Mac via a simulator
 
