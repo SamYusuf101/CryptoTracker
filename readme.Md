@@ -3,7 +3,7 @@
 This cross-platform mobile application lets you see the current crypto price in real time and lets you track your crypto assets in your portfolio.
 This app is optimized for different screen sizes and orientations.
 
-#Installation
+# Installation
 
 Please set up a React Native development environment if you have not already done so.
 You will also need to install react-native-wagmi-charts for crypto charts.
